@@ -1,4 +1,4 @@
-package heranca;  
+package herancaa;  
   
 Principal.java  
 public class Pessoa {  

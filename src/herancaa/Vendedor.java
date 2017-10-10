@@ -1,10 +1,10 @@
 Vendedor.java  
   
-package heranca;  
+package herancaa;  
   
 Vendedor.java  
   
-public class Vendedoredor extends Pessoa {  
+public class Vendedor extends Principal {  
   
       
     String cnpj;  
