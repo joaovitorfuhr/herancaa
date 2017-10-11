@@ -6,10 +6,9 @@ Vendedor.java
   
 public class Vendedor extends Principal {  
   
-      
-    String cnpj;  
+    String cpf;  
       
     public void ImprimeNome (){  
-        System.out.println("O nome do fornecedor é : " + nome + "\n Cnpj: " + cnpj);  
+        System.out.println("O nome do fornecedor é : " + nome + "\n Cpf: " + cpf);  
     }  
 }  

@@ -3,7 +3,6 @@ package herancaa;
   
 public class Main {  
   
-      
     public static void main(String[] args) {  
           
         Cliente c = new Cliente();  
@@ -12,14 +11,13 @@ public class Main {
         c.cpf="073.777.796-21";  
         c.ImprimeNome();  
           
-        Fornecedor f = new Fornecedor ();  
+       Vendedor f = new Vendedor ();  
           
         f.nome="Deltatronic";  
-        f.cnpj="073.856.9856.52-10";  
+        f.cpf="073.856.9856.52-10";  
           
         f.ImprimeNome();  
           
-  
     }  
   
 }  
